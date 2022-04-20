@@ -1,0 +1,12 @@
+--测试github的使用
+CREATE OR REPLACE PROCEDURE insert_student
+(sno IN student.sno%TYPE,--学号
+ sname IN student.sname%TYPE,--姓名
+ ssex IN student.ssex%TYPE,--性别
+ sbirthday IN student.sbirthday%TYPE,--出生日期
+ classno IN student.classno%TYPE--班级号
+ )
+ IS
+ BEGIN
+	INSERT INTO student(sno,sname,ssex,sbirthday,classno) VALUES(sno,sname,ssex,sbirthday,classno) ;
+END insert_student;
