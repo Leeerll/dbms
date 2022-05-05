@@ -1,0 +1,13 @@
+dmdao.o
+field.o
+tree.o
+user.o
+main.o
+mainwindow.o
+login.o
+mydbms.o
+table.o
+qrc_images.o
+moc_mainwindow.o
+moc_login.o
+moc_mydbms.o
