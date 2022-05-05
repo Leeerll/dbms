@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../build-DBMS-Desktop_Qt_5_9_9_MSVC2015_32bit-Debug/DBMS/res/add.png</file>
+        <file>../build-DBMS-Desktop_Qt_5_9_9_MSVC2015_32bit-Debug/DBMS/res/back.jpg</file>
+        <file>../build-DBMS-Desktop_Qt_5_9_9_MSVC2015_32bit-Debug/DBMS/res/correct.png</file>
+        <file>../build-DBMS-Desktop_Qt_5_9_9_MSVC2015_32bit-Debug/DBMS/res/delete.png</file>
+        <file>../build-DBMS-Desktop_Qt_5_9_9_MSVC2015_32bit-Debug/DBMS/res/Login.png</file>
+        <file>../build-DBMS-Desktop_Qt_5_9_9_MSVC2015_32bit-Debug/DBMS/res/mouse.png</file>
+        <file>../build-DBMS-Desktop_Qt_5_9_9_MSVC2015_32bit-Debug/DBMS/res/refresh.png</file>
+        <file>../build-DBMS-Desktop_Qt_5_9_9_MSVC2015_32bit-Debug/DBMS/res/wrong.png</file>
+        <file>../build-DBMS-Desktop_Qt_5_9_9_MSVC2015_32bit-Debug/DBMS/res/background.png</file>
+        <file>../build-DBMS-Desktop_Qt_5_9_9_MSVC2015_32bit-Debug/DBMS/res/back (2).png</file>
+    </qresource>
+</RCC>
