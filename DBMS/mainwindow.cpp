@@ -73,6 +73,7 @@ bool MainWindow::prase(){
             break;
         }
         i++;
+
     }
 
     if(allUsers[i].get_CONNECT() == "FALSE" && allUsers[i].get_DBA() == "FALSE" && allUsers[i].get_DBA() == "FALSE"){
@@ -233,9 +234,9 @@ bool MainWindow::Insert(QString database,QString sql){
                //qDebug()<<param;
                columnList = column.split(",");
                paramList = param.split(",");
-//               if(columnList.length()==paramList.length()){
+               if(columnList.length()==paramList.length()){
                    return dao.insertDao(tableName,dataname,columnList,paramList);
-//           }
+           }
            }
            //无表参数
            else{
