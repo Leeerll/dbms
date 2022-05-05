@@ -1,1 +1,0 @@
-insert into class (classno,classname,classmajor,classdept,studentnumber) values ('RJ2001','软件2001','软件开发','软件工程',25);
