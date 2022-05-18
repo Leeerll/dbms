@@ -1,0 +1,1 @@
+alter table class modify column classno varchar(6);

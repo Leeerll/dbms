@@ -1,0 +1,1 @@
+classno VARCHAR(6) classname varchar classmajor varchar classdept varchar studentnumber smallint
