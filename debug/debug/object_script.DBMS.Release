@@ -1,0 +1,15 @@
+INPUT(
+./release\dmdao.o
+./release\field.o
+./release\tree.o
+./release\user.o
+./release\main.o
+./release\mainwindow.o
+./release\login.o
+./release\mydbms.o
+./release\table.o
+./release\qrc_images.o
+./release\moc_mainwindow.o
+./release\moc_login.o
+./release\moc_mydbms.o
+);

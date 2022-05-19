@@ -1,0 +1,13 @@
+release/field.o
+release/tree.o
+release/user.o
+release/main.o
+release/mainwindow.o
+release/login.o
+release/mydbms.o
+release/table.o
+release/dmDao.o
+release/qrc_image.o
+release/moc_mainwindow.o
+release/moc_login.o
+release/moc_mydbms.o
