@@ -1,0 +1,15 @@
+INPUT(
+./debug\dmdao.o
+./debug\field.o
+./debug\tree.o
+./debug\user.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\login.o
+./debug\mydbms.o
+./debug\table.o
+./debug\qrc_image.o
+./debug\moc_mainwindow.o
+./debug\moc_login.o
+./debug\moc_mydbms.o
+);
